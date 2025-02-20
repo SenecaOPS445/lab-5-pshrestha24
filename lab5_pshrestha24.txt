@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: pshrestha24
+    Linux system name: linux-pshrestha24
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/pshrestha24/ops445/lab5/lab-5-pshrestha24
+    Start at: Wed Feb 19 20:29:10 2025
+=================================================================
